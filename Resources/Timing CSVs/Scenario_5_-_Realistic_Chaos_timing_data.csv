@@ -1,0 +1,22 @@
+Suitcase Name,Start Frame,End Frame,Duration
+CurrentSuitcase_1_1.366,1,131,130
+CurrentSuitcase_1_2.366,31,161,130
+CurrentSuitcase_1_3.366,61,191,130
+CurrentSuitcase_2_1.366,391,521,130
+CurrentSuitcase_2_2.366,91,406,315
+CurrentSuitcase_2_3.366,421,551,130
+CurrentSuitcase_3_1.366,451,581,130
+CurrentSuitcase_3_2.366,481,611,130
+CurrentSuitcase_3_3.366,511,641,130
+OptimisedSuitcase_1_1.366,1,131,130
+OptimisedSuitcase_1_2.366,31,161,130
+OptimisedSuitcase_1_3.366,61,191,130
+OptimisedSuitcase_1_4.366,91,221,130
+OptimisedSuitcase_2_1.366,421,551,130
+OptimisedSuitcase_2_2.366,121,436,315
+OptimisedSuitcase_2_3.366,451,581,130
+OptimisedSuitcase_2_4.366,481,611,130
+OptimisedSuitcase_3_1.366,511,641,130
+OptimisedSuitcase_3_2.366,541,671,130
+OptimisedSuitcase_3_3.366,571,701,130
+OptimisedSuitcase_3_4.366,601,731,130
