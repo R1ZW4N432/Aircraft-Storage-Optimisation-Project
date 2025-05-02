@@ -1,0 +1,4 @@
+Scenario,Total Suitcases,Avg Storage Time (frames),First Suitcase Stored,Last Suitcase Stored,Suitcases Stored by Frame 200
+Scenario 3,21,147,50,270,16
+Scenario 4,21,147,50,270,16
+Scenario 5,21,449,131,731,6

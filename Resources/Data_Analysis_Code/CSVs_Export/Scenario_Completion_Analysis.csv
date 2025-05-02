@@ -1,0 +1,4 @@
+Scenario,Total_Suitcases,Avg_Completion_Frame,Earliest_Completion,Latest_Completion,Completed_by_200
+Scenario 3,21,147.14285714285714,50,270,16
+Scenario 4,21,147.14285714285714,50,270,16
+Scenario 5,21,448.6190476190476,131,731,6

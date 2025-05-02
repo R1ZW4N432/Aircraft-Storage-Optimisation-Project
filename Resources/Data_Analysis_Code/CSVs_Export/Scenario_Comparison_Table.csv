@@ -1,0 +1,4 @@
+Scenario,Suitcases,Avg_Duration,Min_Duration,Max_Duration
+Scenario 3,21,50.0,50,50
+Scenario 4,21,50.0,50,50
+Scenario 5,21,147.61904761904762,130,315

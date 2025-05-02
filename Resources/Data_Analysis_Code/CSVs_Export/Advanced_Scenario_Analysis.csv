@@ -1,0 +1,4 @@
+Scenario,Time_to_50pct,Delay_Range,Final_Delay_vs_Avg,%_By_Frame_200,%_By_Frame_300,%_By_Frame_400,Frame_Suitcase_3,Frame_Suitcase_6,Frame_Suitcase_9,Frame_Suitcase_12,Frame_Suitcase_15,Frame_Suitcase_18,Frame_Suitcase_21,Stored_0to50,Stored_0to100,Stored_0to150,Stored_0to200,Stored_0to250,Stored_0to300,Stored_0to350,Stored_0to400,Stored_0to450,Stored_0to500,Stored_0to550,Stored_0to600,Stored_0to650,Stored_0to700
+Scenario 3,150,220,122.85714285714286,0.7619047619047619,1.0,1.0,70,90,130,150,190,210,270,2,4,6,4,4,1,0,0,0,0,0,0,0,0
+Scenario 4,150,220,122.85714285714286,0.7619047619047619,1.0,1.0,70,90,130,150,190,210,270,2,4,6,4,4,1,0,0,0,0,0,0,0,0
+Scenario 5,551,600,282.3809523809524,0.2857142857142857,0.3333333333333333,0.3333333333333333,161,191,436,551,611,641,731,0,0,2,4,1,0,0,0,2,0,1,4,4,1

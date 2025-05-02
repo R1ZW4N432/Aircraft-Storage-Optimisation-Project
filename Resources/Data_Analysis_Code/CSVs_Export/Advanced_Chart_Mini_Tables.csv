@@ -1,0 +1,138 @@
+Table for Chart 2: % Complete by Frame Threshold (Long Format)
+Scenario,Frame Threshold,% Complete
+Scenario 3,200,0.7619047619047619
+Scenario 3,300,1.0
+Scenario 3,400,1.0
+Scenario 4,200,0.7619047619047619
+Scenario 4,300,1.0
+Scenario 4,400,1.0
+Scenario 5,200,0.2857142857142857
+Scenario 5,300,0.3333333333333333
+Scenario 5,400,0.3333333333333333
+
+Table for Chart 2: % Complete by Frame Threshold (Wide Format for Chart)
+Frame Threshold,Scenario 3,Scenario 4,Scenario 5
+200,0.7619047619047619,0.7619047619047619,0.2857142857142857
+300,1.0,1.0,0.3333333333333333
+400,1.0,1.0,0.3333333333333333
+
+Table for Chart 3: Milestone Completion Frames
+Suitcase Milestone,Scenario 3,Scenario 4,Scenario 5
+3,70,70,161
+6,90,90,191
+9,130,130,436
+12,150,150,551
+15,190,190,611
+18,210,210,641
+21,270,270,731
+
+
+Table for Chart 4: Cumulative Storage Progress
+Frame,Scenario 3,Scenario 4,Scenario 5
+50,2,2,0
+100,4,4,0
+150,6,6,2
+200,4,4,4
+250,4,4,1
+300,1,1,0
+350,0,0,0
+400,0,0,0
+450,0,0,2
+500,0,0,0
+550,0,0,1
+600,0,0,4
+650,0,0,4
+700,0,0,1
+
+Table for Chart 5: Storage Completion Spread
+Scenario,Suitcase Number,Stored At Frame
+Scenario 3,3,70
+Scenario 3,6,90
+Scenario 3,9,130
+Scenario 3,12,150
+Scenario 3,15,190
+Scenario 3,18,210
+Scenario 3,21,270
+Scenario 4,3,70
+Scenario 4,6,90
+Scenario 4,9,130
+Scenario 4,12,150
+Scenario 4,15,190
+Scenario 4,18,210
+Scenario 4,21,270
+Scenario 5,3,161
+Scenario 5,6,191
+Scenario 5,9,436
+Scenario 5,12,551
+Scenario 5,15,611
+Scenario 5,18,641
+Scenario 5,21,731
+
+Table for Chart 6: Time Spread per Suitcase
+Scenario,Suitcase Number,Stored Frame
+Scenario 3,3,70
+Scenario 4,3,70
+Scenario 5,3,161
+Scenario 3,6,90
+Scenario 4,6,90
+Scenario 5,6,191
+Scenario 3,9,130
+Scenario 4,9,130
+Scenario 5,9,436
+Scenario 3,12,150
+Scenario 4,12,150
+Scenario 5,12,551
+Scenario 3,15,190
+Scenario 4,15,190
+Scenario 5,15,611
+Scenario 3,18,210
+Scenario 4,18,210
+Scenario 5,18,641
+Scenario 3,21,270
+Scenario 4,21,270
+Scenario 5,21,731
+Table for Chart 2: % Complete by Frame Threshold (Long Format)
+Scenario,Frame Threshold,% Complete
+Scenario 3,200,0.7619047619047619
+Scenario 3,300,1.0
+Scenario 3,400,1.0
+Scenario 4,200,0.7619047619047619
+Scenario 4,300,1.0
+Scenario 4,400,1.0
+Scenario 5,200,0.2857142857142857
+Scenario 5,300,0.3333333333333333
+Scenario 5,400,0.3333333333333333
+
+Table for Chart 2: % Complete by Frame Threshold (Wide Format for Chart)
+Frame Threshold,Scenario 3,Scenario 4,Scenario 5
+200,0.7619047619047619,0.7619047619047619,0.2857142857142857
+300,1.0,1.0,0.3333333333333333
+400,1.0,1.0,0.3333333333333333
+
+Table for Chart 3: Milestone Completion Frames
+Suitcase Milestone,Scenario 3,Scenario 4,Scenario 5
+3,70,70,161
+6,90,90,191
+9,130,130,436
+12,150,150,551
+15,190,190,611
+18,210,210,641
+21,270,270,731
+
+
+Table for Chart 4: Cumulative Storage Progress
+Frame,Scenario 3,Scenario 4,Scenario 5
+50,2,2,0
+100,4,4,0
+150,6,6,2
+200,4,4,4
+250,4,4,1
+300,1,1,0
+350,0,0,0
+400,0,0,0
+450,0,0,2
+500,0,0,0
+550,0,0,1
+600,0,0,4
+650,0,0,4
+700,0,0,1
