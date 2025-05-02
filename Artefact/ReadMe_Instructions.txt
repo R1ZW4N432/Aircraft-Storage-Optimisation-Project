@@ -6,6 +6,12 @@ BOARDING SIMULATION (BLENDER)
 
 ------------------------------------------------------------------------
 
+📦 DOWNLOAD THE SIMULATION  
+You can download the full `.blend` file (with all baked animations) here:  
+👉 [Cabin_Simulation_baked.blend – Google Drive](https://drive.google.com/drive/folders/1zkVe-wJF2FCxdeXMWsi2_SRZBX-iio28?usp=sharing)
+
+------------------------------------------------------------------------
+
 🔍 OVERVIEW
     This Blender file contains 5 animated scenarios demonstrating various aircraft boarding strategies using overhead cabin bins.
 
